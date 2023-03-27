@@ -1,0 +1,5 @@
+venv
+*.mp3
+.idea
+__pycache__
+config.py
